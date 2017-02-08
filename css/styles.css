@@ -1,16 +1,17 @@
 h1{
-  font-weight: bold;
-  font-size: 40px;
+  font-style: italic;
+  font-size: 80px;
   text-align: center;
 }
 body{
   background-color: #008080;
+  font-family: "Times New Roman"
 }
 
 h2{
-  text-align: center;
+  text-align: left;
 }
 
 ul {
-  font-size: 30px;
+  font-size: 50px;
 }
